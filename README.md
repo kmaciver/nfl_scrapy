@@ -7,3 +7,4 @@ To run the spider excecute the command scrapy crawl nfl inside your terminal.
 
 The command will create a csv file named 'test.csv' with the result output.
 
+The python code for the spider is in the nfl\tutorial\tutorial\spiders\nfl_spyder.py
